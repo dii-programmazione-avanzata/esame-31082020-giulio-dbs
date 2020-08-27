@@ -1,4 +1,4 @@
-# TPA 2020 - Genetic Algorithm
+# TPA 2020 - Algoritmi Genetici
 Questa repository contiene il testo dell'esame del corso "Tecniche di Programmazione Avanzata" del Dipartimento di Ingegneria Industriale, anno accademico 2019/2020.
 
 # Istruzioni
