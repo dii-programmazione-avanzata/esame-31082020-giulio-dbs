@@ -31,6 +31,16 @@ Un tipico algoritmo genetico, nel corso della sua esecuzione, fa evolvere delle 
 
 I parametri N (numero di individui nella popolazione) ed M (numero di individui sostituiti ad ogni iterazione dell'algoritmo) devono essere specificati dall'utente, come il numero totale di iterazioni (generazioni) dell'algoritmo.
 
+#### Esempio
+La seguente figura mostra l'esecuzione di un algoritmo genetico per l'ottimizzazione di un vettore binario di 5 elementi. 
+La funzione di fitness è la somma degli elementi del vettore, e quindi la soluzione ottima è `x=[1, 1, 1, 1, 1]`.
+
+![Esempio](https://github.com/andreadelprete/tpa2020_genetic_algorithm/blob/master/GA_esempio.png)
+
+L'algoritmo lavora con una popolazione di `N=5` individui, ed ad ogni iterazione (generazione) viene sostituito `M=1` individuo.
+L'algoritmo converge dopo 4 iterazioni, trovando la soluzione ottima.
+
+# Consegna
 Scrivere un software ad oggetti in C++ per l'ottimizzazione basata su algoritmi genetici. In particolare, il software deve essere in grado di risolvere le due classi di problemi descritti di seguito. L'obiettivo è progettare il codice in modo tale da non duplicare porzioni di codice, ma invece cercare di condividere più codice possibile per risolvere i due problemi. A questo scopo, lo studente è incoraggiato ad utilizzare ereditarietà e polimorfismo.
 
 ## 1- Ottimizzazione a dimensione fissa
