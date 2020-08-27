@@ -22,12 +22,12 @@ Nessun codice di partenza è fornito. Lo studente deve occuparsi sia della proge
 Un algoritmo genetico è un algoritmo euristico utilizzato per risolvere problemi di ottimizzazione. In sintesi gli algoritmi genetici partono da un insieme casuale di soluzioni (come se fossero diversi individui biologici) e ricombinandole (analogamente alla riproduzione biologica sessuata) producono nuove soluzioni (nuovi individui) che vengono valutate scegliendo le migliori (selezione ambientale) nel tentativo di convergere verso soluzioni "di ottimo".
 
 Un tipico algoritmo genetico, nel corso della sua esecuzione, fa evolvere delle soluzioni (popolazione) secondo il seguente schema di base:
-* 1. Generazione casuale della prima popolazione di N soluzioni (individui).
-* 2. Calcolo della funzione di fitness per le soluzioni (individui) dell'attuale popolazione.
-* 3. Selezione delle M (<N) soluzioni migliori (ovvero soluzioni con valore più alto della funzione di fitness).
-* 4. Generazione di M soluzioni ibride (usando la tecnica del crossover, spiegata in seguito) a partire dalle M soluzioni scelte al punto 3.
-* 5. Sostituzione delle M soluzioni peggiori (ovvero con valore più basso della funzione di fitness) con le M soluzioni generate al punto 4.
-* 6. Riesecuzione a partire dal punto 2 con la nuova popolazione creata al punto 5.
+1. Generazione casuale della prima popolazione di N soluzioni (individui).
+2. Calcolo della funzione di fitness per le soluzioni (individui) dell'attuale popolazione.
+3. Selezione delle M (<N) soluzioni migliori (ovvero soluzioni con valore più alto della funzione di fitness).
+4. Generazione di M soluzioni ibride (usando la tecnica del crossover, spiegata in seguito) a partire dalle M soluzioni scelte al punto 3.
+5. Sostituzione delle M soluzioni peggiori (ovvero con valore più basso della funzione di fitness) con le M soluzioni generate al punto 4.
+6. Riesecuzione a partire dal punto 2 con la nuova popolazione creata al punto 5.
 
 I parametri N (numero di individui nella popolazione) ed M (numero di individui sostituiti ad ogni iterazione dell'algoritmo) devono essere specificati dall'utente, come il numero totale di iterazioni (generazioni) dell'algoritmo.
 
