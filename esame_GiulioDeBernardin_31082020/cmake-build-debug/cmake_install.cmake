@@ -1,4 +1,4 @@
-# Install script for directory: /Users/Wadiobelisimo/CLionProjects/esame_GiulioDeBernardin_31082020
+# Install script for directory: /Users/Wadiobelisimo/Desktop/esame-31082020-giulio-dbs/esame_GiulioDeBernardin_31082020
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/Wadiobelisimo/CLionProjects/esame_GiulioDeBernardin_31082020/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/Wadiobelisimo/Desktop/esame-31082020-giulio-dbs/esame_GiulioDeBernardin_31082020/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

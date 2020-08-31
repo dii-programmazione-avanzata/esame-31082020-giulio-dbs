@@ -16,6 +16,8 @@ protected:
 public:
     Simulation(Individual *pool, int pool_size);
 
+    ~Simulation() { delete[] pool; };
+
     void run(int sample, CrossoverType ct, int max_iter);
 
     void crossover(int sample, CrossoverType ct);

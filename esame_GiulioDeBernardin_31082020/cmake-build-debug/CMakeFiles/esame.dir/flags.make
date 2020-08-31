@@ -6,5 +6,5 @@ CXX_FLAGS = -g   -std=gnu++1z
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/Users/Wadiobelisimo/CLionProjects/esame_GiulioDeBernardin_31082020/include 
+CXX_INCLUDES = -I/Users/Wadiobelisimo/Desktop/esame-31082020-giulio-dbs/esame_GiulioDeBernardin_31082020/include 
 

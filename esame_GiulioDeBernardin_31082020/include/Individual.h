@@ -15,6 +15,8 @@ public:
 
     Individual(const Individual& other);
 
+    ~Individual() { delete[] genes; }
+
     int getSize() const { return size; }
 
     int *getGenes() const { return genes; }

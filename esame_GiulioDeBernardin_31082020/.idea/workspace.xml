@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
-    <generated />
+    <generated>
+      <config projectName="esame" targetName="esame" />
+    </generated>
   </component>
   <component name="CMakeSettings" AUTO_RELOAD="true">
     <configurations>
@@ -9,7 +11,30 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="04267e03-fdbb-47c8-b091-4bfa599ba54c" name="Default Changelist" comment="" />
+    <list default="true" id="04267e03-fdbb-47c8-b091-4bfa599ba54c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/esame.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/esame.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/esame.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/esame.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/esame.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/esame.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/esame.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/esame.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/esame.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/esame.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/esame.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/esame.dir/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/esame.dir/src/Individual.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/esame.dir/src/Individual.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/esame.dir/src/Simulation.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/esame.dir/src/Simulation.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/esame" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/esame" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/esame.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/esame.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/Individual.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/Individual.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/Simulation.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/Simulation.h" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +43,12 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1grPNcAN9UkvHLf2LSo0cw5iqDP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -26,7 +56,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -51,6 +83,7 @@
       <option name="presentableId" value="Default" />
       <updated>1598869698451</updated>
       <workItem from="1598869699934" duration="577000" />
+      <workItem from="1598870533830" duration="831000" />
     </task>
     <servers />
   </component>
@@ -58,21 +91,21 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1398" height="218" key="GridCell.Tab.0.bottom" timestamp="1598870428626">
+    <state width="1398" height="218" key="GridCell.Tab.0.bottom" timestamp="1598871352710">
       <screen x="0" y="23" width="1440" height="841" />
     </state>
-    <state width="1398" height="218" key="GridCell.Tab.0.bottom/0.23.1440.841@0.23.1440.841" timestamp="1598870428626" />
-    <state width="1398" height="218" key="GridCell.Tab.0.center" timestamp="1598870428626">
+    <state width="1398" height="218" key="GridCell.Tab.0.bottom/0.23.1440.841@0.23.1440.841" timestamp="1598871352710" />
+    <state width="1398" height="218" key="GridCell.Tab.0.center" timestamp="1598871352709">
       <screen x="0" y="23" width="1440" height="841" />
     </state>
-    <state width="1398" height="218" key="GridCell.Tab.0.center/0.23.1440.841@0.23.1440.841" timestamp="1598870428626" />
-    <state width="1398" height="218" key="GridCell.Tab.0.left" timestamp="1598870428625">
+    <state width="1398" height="218" key="GridCell.Tab.0.center/0.23.1440.841@0.23.1440.841" timestamp="1598871352709" />
+    <state width="1398" height="218" key="GridCell.Tab.0.left" timestamp="1598871352708">
       <screen x="0" y="23" width="1440" height="841" />
     </state>
-    <state width="1398" height="218" key="GridCell.Tab.0.left/0.23.1440.841@0.23.1440.841" timestamp="1598870428625" />
-    <state width="1398" height="218" key="GridCell.Tab.0.right" timestamp="1598870428626">
+    <state width="1398" height="218" key="GridCell.Tab.0.left/0.23.1440.841@0.23.1440.841" timestamp="1598871352708" />
+    <state width="1398" height="218" key="GridCell.Tab.0.right" timestamp="1598871352709">
       <screen x="0" y="23" width="1440" height="841" />
     </state>
-    <state width="1398" height="218" key="GridCell.Tab.0.right/0.23.1440.841@0.23.1440.841" timestamp="1598870428626" />
+    <state width="1398" height="218" key="GridCell.Tab.0.right/0.23.1440.841@0.23.1440.841" timestamp="1598871352709" />
   </component>
 </project>

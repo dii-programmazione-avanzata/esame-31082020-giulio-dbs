@@ -14,11 +14,25 @@ string
 Individual.h
 ../include/Individual.h
 
-/Users/Wadiobelisimo/CLionProjects/esame_GiulioDeBernardin_31082020/main.cpp
+/Users/Wadiobelisimo/Desktop/esame-31082020-giulio-dbs/esame_GiulioDeBernardin_31082020/main.cpp
 iostream
 -
 Individual.h
-/Users/Wadiobelisimo/CLionProjects/esame_GiulioDeBernardin_31082020/Individual.h
+/Users/Wadiobelisimo/Desktop/esame-31082020-giulio-dbs/esame_GiulioDeBernardin_31082020/Individual.h
 Simulation.h
-/Users/Wadiobelisimo/CLionProjects/esame_GiulioDeBernardin_31082020/Simulation.h
+/Users/Wadiobelisimo/Desktop/esame-31082020-giulio-dbs/esame_GiulioDeBernardin_31082020/Simulation.h
+
+/Users/Wadiobelisimo/Desktop/esame-31082020-giulio-dbs/esame_GiulioDeBernardin_31082020/src/Simulation.cpp
+Simulation.h
+/Users/Wadiobelisimo/Desktop/esame-31082020-giulio-dbs/esame_GiulioDeBernardin_31082020/src/Simulation.h
+algorithm
+-
+cstdlib
+-
+cstring
+-
+iostream
+-
+Individual.h
+/Users/Wadiobelisimo/Desktop/esame-31082020-giulio-dbs/esame_GiulioDeBernardin_31082020/src/Individual.h
 
