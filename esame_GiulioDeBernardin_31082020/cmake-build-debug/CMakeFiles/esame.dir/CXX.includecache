@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Individual.h
+string
+-
+
+../include/Simulation.h
+Individual.h
+../include/Individual.h
+
+/Users/Wadiobelisimo/CLionProjects/esame_GiulioDeBernardin_31082020/main.cpp
+iostream
+-
+Individual.h
+/Users/Wadiobelisimo/CLionProjects/esame_GiulioDeBernardin_31082020/Individual.h
+Simulation.h
+/Users/Wadiobelisimo/CLionProjects/esame_GiulioDeBernardin_31082020/Simulation.h
+
